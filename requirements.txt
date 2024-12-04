@@ -1,0 +1,4 @@
+requests
+streamlit
+lxml
+bs4
